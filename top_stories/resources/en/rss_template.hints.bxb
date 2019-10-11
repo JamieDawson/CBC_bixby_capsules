@@ -1,7 +1,7 @@
 hints {
   uncategorized {
-    hint (On Hockey News Canada whats new in hockey)
-    hint (With Hockey News Canada see whats happening)
-    hint (Ask Hockey News Canada for the latest hockey news)
+    hint (On CBC Top Stories whats the latest news?)
+    hint (With CBC Top Stories see whats happening in the news.)
+    hint (Ask CBC Top Stories for the latest news)
   }
 }

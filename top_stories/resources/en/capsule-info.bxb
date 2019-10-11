@@ -1,11 +1,12 @@
 capsule-info {
-  display-name (Hockey News Canada)
-  dispatch-name (Hockey News Canada)
+  display-name (CBC Top Stories)
+  dispatch-name (CBC Top Stories)
   developer-name (CBC Podcasting)
   icon-asset (icon.png)
-  description (Hockey News Canada is a simple Capsule for listening to the Hockey Night in Canada podcast. All content is sourced from CBC's public RSS feed at https://www.cbc.ca/podcasting/includes/hnic.xml.)
+  description ("CBC Top Stories provides the most popular news stories from CBC. \n All content is sourced from CBC's public RSS feed at https://www.cbc.ca/cmlink/rss-topstories.")
   search-keywords {
     keyword (News)
     keyword (RSS)
+    keyword (Canada)
   }
 }

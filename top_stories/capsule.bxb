@@ -1,5 +1,5 @@
 capsule {
-  id (playground.hockey_news_canada)
+  id (playground.cbc_top_stories)
   version (1.0.0)
   format (3)
   targets {
