@@ -8,10 +8,10 @@
 // Copyright: Feeds copyright message to use if the feed doesn't have one (Optional)
 module.exports = module.exports = [
   {
-    url: 'https://rss.cbc.ca/lineup/politics.xml',
+    url: 'https://rss.cbc.ca/lineup/world.xml',
     urlText: 'Click here to see the full story on www.cbc.ca',
-    text: 'Top Stories',
-    description: "The top stories from cbc.ca.",
+    text: 'CBC World',
+    description: "Stories from around the world that are provided by CBC.",
     //image: 'https://www.cbc.ca/radio/podcasts/images/promo-hnic.jpg',
     tags: ['cbc', 'politics', 'latest', 'news', 'canada', 'Canadian Broadcasting Corporation']
   }

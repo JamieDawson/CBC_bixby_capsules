@@ -1,9 +1,9 @@
 capsule-info {
-  display-name (CBC Top Stories)
-  dispatch-name (CBC Top Stories)
+  display-name (CBC World)
+  dispatch-name (CBC World)
   developer-name (CBC Podcasting)
   icon-asset (icon.png)
-  description ("CBC Top Stories provides the most popular news stories from CBC. \n All content is sourced from CBC's public RSS feed at https://www.cbc.ca/cmlink/rss-topstories.")
+  description ("CBC World provides stories from all over the globe! \n All content is sourced from CBC's public RSS feed at https://www.cbc.ca/cmlink/rss-world")
   search-keywords {
     keyword (News)
     keyword (RSS)
