@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (CBC Politics)
+  dispatch-name (CBC Politics)
+  developer-name (CBC Podcasting)
+  icon-asset (icon.png)
+  description ("CBC Politics provides news stories that focus on politics in Canada. \n All content is sourced from CBC's public RSS feed at https://www.cbc.ca/cmlink/rss-politics")
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+    keyword (Canada)
+  }
+}
