@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Offbeat)
+  dispatch-name (CBC Offbeat)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (Fun and unique news stories from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/offbeat.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
