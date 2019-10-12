@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC World)
+  dispatch-name (CBC World)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (A Capsule that displays CBC news stories from around the world. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/world.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
