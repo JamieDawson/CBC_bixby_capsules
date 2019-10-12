@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Health)
+  dispatch-name (CBC Health)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (Health news stories from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/health.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
