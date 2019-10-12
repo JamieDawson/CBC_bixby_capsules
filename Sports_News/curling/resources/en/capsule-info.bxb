@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Curling)
+  dispatch-name (CBC Curling)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (The latest news from CBC about Curling. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-curling.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
