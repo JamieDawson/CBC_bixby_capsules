@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Politics)
+  dispatch-name (CBC Politics)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (Political news stories from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/politics.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}

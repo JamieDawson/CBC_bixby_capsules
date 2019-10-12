@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Canada)
+  dispatch-name (CBC Canada)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (A Capsule that displays CBC news stories About Canada. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/canada.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
