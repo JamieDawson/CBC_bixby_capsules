@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Top Stories)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (A Capsule that displays the Top stories from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/topstories.xml)
+  description ("A Capsule that displays the top stories from CBC. \n All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/topstories.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
