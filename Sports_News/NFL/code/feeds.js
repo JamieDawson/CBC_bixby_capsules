@@ -8,7 +8,7 @@
 // Copyright: Feeds copyright message to use if the feed doesn't have one (Optional)
 module.exports = module.exports = [
   {
-    url: 'https://rss.cbc.ca/lineup/sports-nhl.xml',
+    url: 'https://rss.cbc.ca/lineup/sports-nfl.xml',
     urlText: 'Click here to see the full story on cbc.ca',
     text: 'CBC NFL',
     image: './icon.png',

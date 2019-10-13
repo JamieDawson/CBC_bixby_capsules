@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC NFL)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (All the latest NFL News, scores, stats, videos and commentary from CBC Sports. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-nhl.xml)
+  description (All the latest NFL News, scores, stats, videos and commentary from CBC Sports. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-nfl.xml)
   search-keywords {
     keyword (News)
     keyword (RSS)
