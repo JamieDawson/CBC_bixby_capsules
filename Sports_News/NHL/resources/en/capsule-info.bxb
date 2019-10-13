@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC NHL)
+  dispatch-name (CBC NHL)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (All the latest NHL News, scores, stats, videos and commentary from CBC Sports. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-nhl.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
