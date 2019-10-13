@@ -13,6 +13,6 @@ module.exports = module.exports = [
     text: 'CBC World',
     image: './icon.png',
     description: "CBC news stories from around the world.",
-    tags: ['canada', 'cbc', 'world news', 'top stories']
+    tags: ['canada', 'cbc', 'world news', 'top stories', 'world', 'earth']
   }
 ]
