@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Montreal)
+  dispatch-name (CBC Montreal)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (Stay on top of Montreal for the latest in news, weather, sports and interviews. All content is sourced from CBC.ca public feed. Source: http://rss.cbc.ca/lineup/canada-montreal.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
