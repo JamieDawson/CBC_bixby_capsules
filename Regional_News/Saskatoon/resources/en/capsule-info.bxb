@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Saskatoon)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (Stay on top of Saskatoon the latest in news, weather, sports and interviews. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/canada-saskatoon.xml)
+  description (Stay on top of Saskatoon for the latest in news, weather, sports and interviews. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/canada-saskatoon.xml)
   search-keywords {
     keyword (News)
     keyword (RSS)
