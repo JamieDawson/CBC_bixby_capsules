@@ -1,0 +1,11 @@
+capsule-info {
+  display-name (CBC Soccer)
+  dispatch-name (CBC Soccer)
+  developer-name (CBC)
+  icon-asset (icon.png)
+  description (All the latest Soccer News, scores, stats, videos and commentary from CBC Sports. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-soccer.xml)
+  search-keywords {
+    keyword (News)
+    keyword (RSS)
+  }
+}
