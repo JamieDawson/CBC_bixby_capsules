@@ -12,7 +12,7 @@ module.exports = module.exports = [
     urlText: 'Click here to see the full story on cbc.ca',
     text: 'CBC Health',
     image: './icon.png',
-    description: "CBC news stories About Health.",
+    description: "CBC news stories about health.",
     tags: ['canada', 'cbc','top stories', 'health', 'fitness']
   }
 ]
