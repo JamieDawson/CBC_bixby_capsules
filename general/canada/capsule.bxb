@@ -1,5 +1,5 @@
 capsule {
-  id (test_out_spotify.test_news)
+  id (playground.cbc_world)
   version (1.0.1)
   format (3)
   targets {
