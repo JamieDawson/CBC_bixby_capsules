@@ -18,6 +18,11 @@ train (t-jccoy4aqoij25ze5k58mii22c) {
   plan (Y2BhkEzLzEvMiU/KLy7WKyoujk9LTU0p1vPMS8tnkMMqlZZakpzhl1pezCCNVT44NbEoOYNBAqtkSGI6AzMDIwMTkGQA0iAIAUxAFlAMAA==)
   last-modified (1567747570008)
 }
+train (t-jnquffddch04isvwip1ycz5nd) {
+  utterance ([g:fetchNews] can I see some stories that appear in the news)
+  plan (Y2BmkEnLzEvMiU/KLy7WKyouji9JzS3ISSxJ1fPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgYDEwMjEDMASUYGBhgNAA==)
+  last-modified (1571092913229)
+}
 train (t-jt7tgxzfmf77eclaygthmmcgq) {
   utterance ([g:fetchNews] Return a list of headlines)
   plan (Y2BmkEzLzEvMiU/KLy7WKyoujk9LTU0p1vPMS8tnkMMqlZZakpzhl1pezCCNVT44NbEoOYOBiYERiBmAJCMDA4wGAA==)

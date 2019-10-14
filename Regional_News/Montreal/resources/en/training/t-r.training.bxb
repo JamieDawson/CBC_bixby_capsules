@@ -13,6 +13,11 @@ train (t-r7cxuqkon1cuo1xjhokzmev97) {
   plan (Y2BhkEnLzEvMiU/KLy7WKy7ILyopjk9LTU0p1vPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgaDNC75kMR0BmYGRgYmIMkApEEQApiALKAYAA==)
   last-modified (1568411185279)
 }
+train (t-r7it19v05k2c70af0czqubn8u) {
+  utterance ([g:fetchNews] show me some stories that are happening on the news)
+  plan (Y2BmkC9JLS6Jzy8tiS8uyC/JTKvUAwvkpZYX63nmpeUzqOBRkJZakpzhB2QxKOJRFZyaWJScwcDEwAjEDECSkYEBRgMA)
+  last-modified (1571092892525)
+}
 train (t-r8q67rrxvh7iydstcc4w4xyhu) {
   utterance ("[g:fetchNews] Get a list of new (wired guides)[v:Tag] stories")
   plan (Y2BhkEzLzEvMiU/KLy7WKyoujk9LTU0p1vPMS8tnkMMqlZZakpzhl1pezCCNVT44NbEoOYNBAqtkSGI6AzMDIwMTkGQA0iAIAUxAFlAMAA==)
