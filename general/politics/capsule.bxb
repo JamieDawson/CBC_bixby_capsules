@@ -1,5 +1,5 @@
 capsule {
-  id (playground.cbc_politics)
+  id (test_out_spotify.test_news)
   version (1.0.1)
   format (3)
   targets {
