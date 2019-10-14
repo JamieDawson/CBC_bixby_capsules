@@ -12,7 +12,7 @@ module.exports = module.exports = [
     urlText: 'Click here to see the full story on cbc.ca',
     text: 'CBC Art and Entertainment',
     image: './icon.png',
-    description: "CBC news stories About Art and Entertainment.",
+    description: "CBC news stories about art and entertainment.",
     tags: ['canada', 'cbc','top stories', 'art', 'entertainment', 'fun', 'movies', 'video games']
   }
 ]
