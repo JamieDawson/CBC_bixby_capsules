@@ -13,6 +13,6 @@ module.exports = module.exports = [
     text: 'CBC Indigenous',
     image: './icon.png',
     description: "Current affairs from Indigenous communities across Canada.",
-    tags: ['canada', 'cbc','top stories', 'science', 'technology', 'medicine', 'tech']
+    tags: ['canada', 'cbc','top stories', 'native', 'indigenous',]
   }
 ]
