@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Arts and Entertainment)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (News about art and entertainment from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/arts.xml)
+  description ("News about art and entertainment from CBC. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/arts.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
