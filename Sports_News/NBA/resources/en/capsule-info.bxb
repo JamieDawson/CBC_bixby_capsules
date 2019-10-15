@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC NBA)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (The latest news from CBC about the NBA. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/sports-nba.xml)
+  description ("The latest news from CBC about the NBA. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/sports-nba.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
