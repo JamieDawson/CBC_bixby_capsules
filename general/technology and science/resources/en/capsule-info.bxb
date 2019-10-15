@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Technology and Science)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (News about Technology and Science from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/technology.xml)
+  description (News about technology and science from CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/technology.xml)
   search-keywords {
     keyword (News)
     keyword (RSS)
