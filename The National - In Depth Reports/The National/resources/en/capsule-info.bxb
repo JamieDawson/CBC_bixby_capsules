@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC The National)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (The National, the flagship nightly news and current affairs program from Canada's public broadcaster, CBC. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/thenational.xml)
+  description ("The National, the flagship nightly news and current affairs program from Canada's public broadcaster, CBC. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/thenational.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
