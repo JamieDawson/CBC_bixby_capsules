@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Indigenous)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (The latest news and current affairs from Indigenous communities across Canada. All content is sourced from CBC.ca public feed. Source: https://www.cbc.ca/cmlink/rss-cbcaboriginal)
+  description ("The latest news and current affairs from Indigenous communities across Canada. \n All content is sourced from CBC's public feed. Source: https://www.cbc.ca/cmlink/rss-cbcaboriginal")
   search-keywords {
     keyword (News)
     keyword (RSS)
