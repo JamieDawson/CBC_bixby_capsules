@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Edmonton)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (Stay on top of Edmonton with the latest in news, weather, sports and interviews. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/canada-edmonton.xml)
+  description ("Stay on top of Edmonton with the latest in news, weather, sports and interviews. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/canada-edmonton.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)

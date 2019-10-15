@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC Kamloops)
   developer-name (CBC)
   icon-asset (icon.png)
-  description (The latest in Kamloops news, events, weather and interviews. All content is sourced from CBC.ca public feed. Source: https://rss.cbc.ca/lineup/canada-kamloops.xml)
+  description ("The latest in Kamloops news, events, weather and interviews. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/canada-kamloops.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
