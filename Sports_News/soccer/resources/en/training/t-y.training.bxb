@@ -3,11 +3,6 @@ train (t-y15wxrwjd6p3mnd95o8adjxpg) {
   plan (Y2BhkEnLzEvMiU/KLy7WKy7ILyopjk9LTU0p1vPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgaDNC75kMR0BmYGRgYmIMkApEEQApiALKAYAA==)
   last-modified (1568409439316)
 }
-train (t-y2izptu2gdousvrg47itk8ivs) {
-  utterance ([g:fetchNews] I would like to see some stories that are happening in the news.)
-  plan (Y2BmkEnLzEvMiU/KLy7WKyouji9JzS3ISSxJ1fPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgYDEwMjEDMASUYGBhgNAA==)
-  last-modified (1571092901621)
-}
 train (t-y4h6yz2ksq7687933smgrajxr) {
   utterance ("[g:fetchNews] Perform reconnaissance for (national college football)[v:Tag] headlines")
   plan (Y2BhkEnLzEvMiU/KLy7WKy7ILyopjk9LTU0p1vPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgaDNC75kMR0BmYGRgYmIMkApEEQApiALKAYAA==)
