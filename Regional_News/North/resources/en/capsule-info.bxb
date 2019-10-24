@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (CBC North)
   developer-name (CBC)
   icon-asset (icon.png)
-  description ("CBC North news, weather and reviews from your favorite local CBC programs. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/canada-novascotia.xml")
+  description ("CBC North news, weather and reviews from your favorite local CBC programs. \n All content is sourced from CBC's public feed. Source: https://rss.cbc.ca/lineup/canada-north.xml")
   search-keywords {
     keyword (News)
     keyword (RSS)
