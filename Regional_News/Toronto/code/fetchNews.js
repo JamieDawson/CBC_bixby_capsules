@@ -16,6 +16,7 @@ function removeHTML(str) {
 }
 
 function parseCDATA(search, key) {
+	return
 	const regexList = {
 		img: /<img[^>]*src='([^']*)/g,
 		p: /<\s*p[^>]*>([^<]*)<\s*\/\s*p\s*>/g,

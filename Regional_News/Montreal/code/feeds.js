@@ -8,7 +8,7 @@
 // Copyright: Feeds copyright message to use if the feed doesn't have one (Optional)
 module.exports = module.exports = [
   {
-    url: 'http://rss.cbc.ca/lineup/canada-montreal.xml',
+    url: 'https://rss.cbc.ca/lineup/canada-montreal.xml',
     urlText: 'Click here to see the full story on cbc.ca',
     text: 'Montreal',
     image: './icon.png',
