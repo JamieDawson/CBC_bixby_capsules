@@ -96,7 +96,7 @@ function buildSharedtags(channel, item, search) {
 		image: fetchThumbnail(channel, item, search),
 		title: item.title ? removeHTML(item.title) : 'No title',
 		copyright: channel.copyright ? removeHTML(channel.copyright) : search.copyright,
-		place: places[g_item == 4 || (g_item + 1) % 5 == 0 ? 4 : ((g_item + 1) % 5) - 1],
+		place: places[g_item == 5 || g_item % 5 == 0 ? 4 : (g_item % 5) - 1],
 		feedDescription: typeof channel.description == 'string' && channel.description ? removeHTML(channel.description) : null,
 		videoItem: 'enclosure' in item && (item.enclosure['@type'] == 'mp4' || item.enclosure['@type'].includes('video')) ? fetchVideoInfo(item, search, channel) : null,
 		audioItem: 'enclosure' in item && (item.enclosure['@type'] == 'mp3' || item.enclosure['@type'].includes('audio')) ? fetchAudioInfo(item, search, channel) : null
