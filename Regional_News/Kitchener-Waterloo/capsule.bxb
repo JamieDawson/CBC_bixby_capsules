@@ -1,5 +1,5 @@
 capsule {
-	id (playground.cbc_kitchener-waterloo)
+	id (playground.cbc_kitchener_waterloo)
 	version (1.0.0)
 	format (3)
 	targets {
