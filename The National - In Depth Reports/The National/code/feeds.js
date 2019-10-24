@@ -8,7 +8,7 @@
 // Copyright: Feeds copyright message to use if the feed doesn't have one (Optional)
 module.exports = module.exports = [
   {
-    url: 'https://rss.cbc.ca/lineup/thenational.xml',
+    url: 'https://news.xbox.com/en-us/feed/',
     urlText: 'Click here to see the full story on cbc.ca',
     text: 'CBC The National',
     image: './icon.png',

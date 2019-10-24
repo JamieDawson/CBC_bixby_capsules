@@ -33,7 +33,7 @@ function parseCDATA(search, key) {
 
 function fetchThumbnail(channel, item, search) {
 	var ret = null
-	
+
 	if (item.image)
 		ret = item.image
 	else if ('enclosure' in item) {
@@ -106,8 +106,10 @@ function buildSharedtags(channel, item, search) {
 module.exports.function = function fetchNews(tag, search) {
 	const data = http.getUrl(search.url, { format: 'xmljs' })
 
-	return data.rss.channel.item.map(item => {
-		g_item++
-		return buildSharedtags(data.rss.channel, item, search)
-	})
+	if (data.rss.channel.item) {
+		return data.rss.channel.item.map(item => {
+			g_item++
+			return buildSharedtags(data.rss.channel, item, search)
+		})
+	}
 }
